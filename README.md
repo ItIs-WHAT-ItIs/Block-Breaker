@@ -1,2 +1,10 @@
 # Block-Breaker
-It is a game created in Python Programming Language
+
+The Blocks that Built a Genre
+Long before Block Breaker was even a twinkle in its “grandfather’s” eye, the arcade classic Brick Breaker was taking the world by storm. The year was 1976. Pong had already made a huge impact on the gaming world four years earlier. Brick Breaker really flipped the script, though, by adding the mechanic that its still famous for today – why, breaking bricks of course! Players now had much more to do than simply scoot that paddle around. Now they actually had to aim. They had to knock out all those bricks and avoid losing the ball. It was a revolution! And from that revolution, this Block Breaker online game was born.
+
+How to Play Block Breaker
+This unblocked game takes all the classics you love from the original era and kicks it up a notch. The original idea is still the same: you use the paddle to bounce your ball towards the bricks at the top of the level, destroying them until they’re all gone. We’ve got a bunch of fun twists in store for you, though, that you might not expect. For example, if you’re quick enough on the controls, you might just be able to catch a power-up! These helpful little stars fall from busted bricks to increase your paddle size, add another life, or who knows what else? Also, you’re not just pinging that ball around the same old arena all day. This game has an awesome level progression system that lets you go from easy to, well, pretty darn tough!
+
+Ready to Really Throw it Back?
+These brick-breaking bonanzas are so well-loved from all corners of the Internet that we just had to create a category dedicated to Brick Breakers. Some of these titles stick closer to the classic play style and design, whereas others stray from the pack a little bit. So, the choice is yours: will you go for something untraditional, or are you looking to enjoy a little nostalgia? Who says you can’t enjoy both? Just as long as you remember the number one rule of Block Breaker and all games like it: keep your eye on the ball!
