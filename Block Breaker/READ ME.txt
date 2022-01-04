@@ -1,0 +1,13 @@
+Instructions to play the game
+
+1.Go to 'dlist' folder and click on the main.exe to play the game 😉
+
+
+Instructions to Make a Python Code into a .EXE file
+
+1.Open Command Prompt(CMD) in the python code path.
+2.To Open CMD type 'cmd' in the address bar.
+3.In CMD, type "pip install pyinstaller" and give enter.
+4.Then, type "pyinstaller --onefile NAME.py".
+5.Here,NAME = the file name of the python code which is given by you.
+6.And there you go, you have created the a .EXE file.
