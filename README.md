@@ -1,9 +1,9 @@
 # Block-Breaker
 
-The Blocks that Built a Genre
+The Blocks that Built a Genre.
 Long before Block Breaker was even a twinkle in its “grandfather’s” eye, the arcade classic Brick Breaker was taking the world by storm. The year was 1976. Pong had already made a huge impact on the gaming world four years earlier. Brick Breaker really flipped the script, though, by adding the mechanic that its still famous for today – why, breaking bricks of course! Players now had much more to do than simply scoot that paddle around. Now they actually had to aim. They had to knock out all those bricks and avoid losing the ball. It was a revolution! And from that revolution, this Block Breaker online game was born.
 
-How to Play Block Breaker
+How to Play Block Breaker.
 This unblocked game takes all the classics you love from the original era and kicks it up a notch. The original idea is still the same: you use the paddle to bounce your ball towards the bricks at the top of the level, destroying them until they’re all gone. We’ve got a bunch of fun twists in store for you, though, that you might not expect. For example, if you’re quick enough on the controls, you might just be able to catch a power-up! These helpful little stars fall from busted bricks to increase your paddle size, add another life, or who knows what else? Also, you’re not just pinging that ball around the same old arena all day. This game has an awesome level progression system that lets you go from easy to, well, pretty darn tough!
 
 Ready to Really Throw it Back?
